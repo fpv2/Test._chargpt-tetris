@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ChatGPTTetris" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorAccent">#00BCD4</item>
+    </style>
+</resources>
